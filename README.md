@@ -132,22 +132,6 @@ A responsive portfolio website showcasing my profile, technical skills, projects
 
 ---
 
-## 🎨 Interactive Whiteboard
-
-<div align="center">
-
-<a href="https://rakshali-p09.github.io/rakshali-whiteboard/">
-  <img src="https://img.shields.io/badge/OPEN_INTERACTIVE_WHITEBOARD-00E5FF?style=for-the-badge&logo=drawio&logoColor=black" />
-</a>
-
-**Got an idea? Sketch it out!** ✨
-
-*Draw · Doodle · Create · Download*
-
-</div>
-
----
-
 ## 🐍 Contribution Activity
 
 <div align="center">
